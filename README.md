@@ -7,4 +7,4 @@
 <!---
 sanjith1999/sanjith1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
-[Acedamic CV](https://github.com/sanjith1999/RESUME/blob/master/resume.pdf)
+[Acedamic CV](https://drive.google.com/file/d/1NNiagiHiPTNSI6eteUSSMR_soaIgP11X/view?usp=sharing)
