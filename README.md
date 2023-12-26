@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Sanjith
+👋 Hi, I’m Sanjith
+
 - Driven researcher passionate about exploring the frontiers of machine learning, particularly in the pursuit of artificial general intelligence.
 - I love challenging my brain and adding new dimensions to my knowledge.
 
