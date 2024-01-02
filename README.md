@@ -1,6 +1,6 @@
 👋 Hi, I’m Sanjith
 
-- Driven researcher passionate about exploring the frontiers of machine learning, particularly in the pursuit of artificial general intelligence.
+- I am a passionate problem solver looking for research opportunities in Deep Learning, Computer Vision, Digital Signal Processing, and Sparse Signal Recovery.
 - I love challenging my brain and adding new dimensions to my knowledge.
 
 
