@@ -1,7 +1,7 @@
 👋 Hi, I’m Sanjith
 
-- I am a passionate problem solver looking for research opportunities related to computational imaging, sparse signal recovery using Plug and Play methods, time series, and diffusion based models. I would like to work mainly on mathematical side.
-- I love challenging my brain and adding new dimensions to my knowledge.
+- I am looking for research opportunities related to computational imaging, sparse signal recovery, time series, and the idea of diffusion. Prefer mathematical side of it.
+- I beleive the real beauty of Engineering happens only when we bring the ideas from paper to practice. I feel it very satisfying when I am there in the whole process.
 
 
 <!---
