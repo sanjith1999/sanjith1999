@@ -13,6 +13,9 @@ delay-Doppler waveforms.
 
 **Open to** a conversation about signal processing and hardware, and to contract work.
 
+Some of my simpler work lives on my other account,
+[@shanSanjith](https://github.com/shanSanjith).
+
 [sanjith1999.github.io](https://sanjith1999.github.io) ·
 [LinkedIn](https://www.linkedin.com/in/sanjith-shanmugathashan-1377571b8/)
 
