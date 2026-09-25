@@ -17,7 +17,8 @@ Some of my simpler work lives on my other account,
 [@shanSanjith](https://github.com/shanSanjith).
 
 [sanjith1999.github.io](https://sanjith1999.github.io) ·
-[LinkedIn](https://www.linkedin.com/in/sanjith-shanmugathashan-1377571b8/)
+[LinkedIn](https://www.linkedin.com/in/sanjith-shanmugathashan-1377571b8/) ·
+[shansanjithofficial@gmail.com](mailto:shansanjithofficial@gmail.com)
 
 <sub>Learn it... Refine it... Resolve it...</sub>
 
